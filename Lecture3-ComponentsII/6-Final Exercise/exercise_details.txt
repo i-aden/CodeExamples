@@ -1,0 +1,14 @@
+Task 1:
+Add two components to the app:
+    a Scientist component and an ScientistData component.
+    Scientist should output a scientistName (h2) and age (h3)
+    ScientistData should output two input fields => for name and age
+    Add styling of your choice
+
+Task 2: 
+    Output both components side-by-side in your main app template
+
+Task 3: 
+    Add scientist data and ensure it contains a name and age
+    Scientist data should be output in the Scientist component.
+    It should be updated via the ScientistData component.
